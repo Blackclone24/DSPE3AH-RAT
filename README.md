@@ -4,6 +4,8 @@ FUD RAT written in python
 
 The DSPE3AH-RAT is a FUD Remote Access Tool, which bypasses every Antivirus. Even if the Rat gets uploaded to Virustotal it will be fud, because everyone gets a other version of the code. Also FUD as exe!
 
+https://youtu.be/m4OaTViUCWg
+
 Functions:
 + screenshare (Remote Monitoring)
 + shell (Remote CMD)
